@@ -1,3 +1,5 @@
+# This web scraper scrapes programming jobs on https://www.jobbank.gc.ca/youth and returns the information in a csv file
+
 from selenium import webdriver
 from selenium.webdriver.common.keys import Keys
 import time
